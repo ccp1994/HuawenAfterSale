@@ -5,7 +5,8 @@ import ProblemInput from '@/components/ProblemInput'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
+  // mode: 'history',
+  base: '/',
   routes: [
 
     {
