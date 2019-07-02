@@ -14,7 +14,7 @@
 
         <el-upload
           style="margin-top:10px;"
-          action="https://app.fitoneapp.com/panel/welcome/upload_after_sale_image/upload"
+          action="https://app.fitoneapp.com/merit/upload_after_sale_image/upload"
           list-type="picture-card"
           name="file"
           :on-preview="handlePictureCardPreview"
